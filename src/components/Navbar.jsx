@@ -19,7 +19,7 @@ function Navbar() {
 
                 <div className="navbar-auth">
                     <Link to='/profile' className="btn btn-secondary">Login</Link>
-                    <Link to='/profile' className="btn btn-primary">Signup</Link>
+                    <Link to='/profile' className="btn btn-primary">SignUp</Link>
                 </div>
             </div>
         </nav>
